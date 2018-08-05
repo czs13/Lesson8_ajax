@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(August 3, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Connor Simpler)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment teaches you how to utilize api keys.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://czs13.github.io/Lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to request api keys.)
+2. (How to set up a movie site.)
+3. (How to configure sites to pull info from a site using api keys.)
